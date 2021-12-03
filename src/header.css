@@ -1,0 +1,22 @@
+.header{
+   border-bottom: 2px solid grey;
+   display: flex;
+   flex-direction:column;
+   background-color: rgb(247, 243, 243);
+   
+}
+.upperheader{
+    margin: 15px;
+    color: black;
+}
+
+.router{
+    margin: 20px;
+}
+.linkers{
+    margin: 20px;
+    color: black;
+}
+#notification{
+   margin-left: 500px;
+}

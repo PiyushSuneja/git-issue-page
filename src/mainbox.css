@@ -1,0 +1,21 @@
+.mainbox{
+  
+    margin: auto;
+    width: 80%;
+    margin-top: 50px;
+    border: 2px solid gray;
+}
+.field{
+    margin: 10px;
+    
+}
+.small-upper{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    background-color: lightgray;
+    
+}
+.fields{
+    margin-left: 400px;
+}
